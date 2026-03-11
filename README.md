@@ -2,7 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho grande interesse em tecnologia, desenvolvimento web e inteligência artificial.
 
-Antes mesmo de entrar na área de programação, já trabalhava com criação visual e design gráfico, utilizando ferramentas como **Canva, Photoshop e Illustrator**. Hoje estou unindo essa experiência criativa com o desenvolvimento de software.
+Antes mesmo de entrar na área de programação, já trabalhava com criação visual e design gráfico, utilizando ferramentas como **Canva e Affinity**. Hoje estou unindo essa experiência criativa com o desenvolvimento de software.
 
 Atualmente estudo **HTML, CSS e Java**, desenvolvendo projetos práticos para fortalecer a base em programação e entender melhor como as tecnologias funcionam na prática.
 
